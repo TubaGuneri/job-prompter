@@ -2,6 +2,7 @@
 const userInput = prompt('Over welke afdeling wil je meer informatie? Kies uit: [marketing / sales / customer-service]');
 console.log(userInput);
 
+
 //Opdracht 2b:
 switch(userInput){
     case 'marketing':
