@@ -9,3 +9,4 @@ console.log(`De afdeling Customer Service heeft ${departments["customer-service"
 
 //Odracht 1d:
 console.log(`Sales is een uitdagende afdeling om te werken als Verkoopmanager. ${departments.sales.jobs[1].description}`)
+

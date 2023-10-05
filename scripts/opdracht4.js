@@ -6,7 +6,8 @@ const choice = prompt(`Je koos ${userInput}. Over welke functie wil je meer wete
  0: ${departments[userInput].jobs[0].title}
  1: ${departments[userInput].jobs[1].title}
  2: ${departments[userInput].jobs[2].title}
- 3: ${departments[userInput].jobs[3].title}`)
+ 3: ${departments[userInput].jobs[3].title}`);
+
 console.log(choice);
 
 //Opdracht 4c:

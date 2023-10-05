@@ -6,7 +6,8 @@ let choice =  prompt(`Je koos ${userInput}. Over welke functie wil je meer weten
     3 : ${departments.marketing.jobs[3].title}
     4 : ${departments.marketing.jobs[4].title}`);
 
-console.log(choice)
+console.log(choice);
+
 
 //Opdracht 3b:
 
